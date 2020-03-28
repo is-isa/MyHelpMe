@@ -7,7 +7,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # SECURITY WARNING: keep the secret key used in production secret!
 # Update the secret key to a value of your own before deploying the app.
-SECRET_KEY = ''
+SECRET_KEY = 'whaaaaaat?'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
